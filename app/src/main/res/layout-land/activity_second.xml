@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bgCorona"
+    android:background="@drawable/bg11"
     tools:context=".SecondActivity">
 
     <Button
         android:id="@+id/btn_login2"
-        android:layout_width="203dp"
-        android:layout_height="38dp"
+        android:layout_width="198dp"
+        android:layout_height="73dp"
         android:background="@drawable/custom_button"
         android:gravity="center"
         android:lineSpacingExtra="18sp"
@@ -29,8 +29,8 @@
     <EditText
         android:id="@+id/username"
         style="@android:style/Widget.DeviceDefault.Light.AutoCompleteTextView"
-        android:layout_width="214dp"
-        android:layout_height="39dp"
+        android:layout_width="241dp"
+        android:layout_height="37dp"
         android:layout_marginTop="28dp"
         android:background="@drawable/custom_shape"
         android:ems="10"
